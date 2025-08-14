@@ -1,12 +1,38 @@
-# React + Vite
+# 🎬 Movie Discovery Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*A responsive React.js SPA for exploring and managing your favorite movies.*
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **📌 Overview**
+Developed a **responsive movie discovery application** using **React.js** and **The Movie Database (TMDb) API**, enabling users to search for movies and manage personal favorites with persistent storage.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## **✨ Key Features**
+- **Real-time movie search** and popular movies display via **TMDb REST API** integration.
+- **Persistent favorites management** using **React Context API** and **localStorage**.
+- **Client-side routing** with **React Router DOM** for seamless navigation.
+- **Responsive design** with reusable component architecture.
+
+---
+
+## **🛠 Tech Stack**
+- **Frontend:** React.js, React Router, Context API, CSS3
+- **Build Tool:** Vite
+- **API:** RESTful APIs (TMDb)
+- **State Management:** React Context API, localStorage
+
+---
+
+## **💡 Highlights**
+- Implemented **modern React patterns** (hooks, functional components).
+- Added **error handling**, **loading states**, and **clean separation of concerns**.
+- Dedicated **service layer** for API calls.
+- Demonstrates proficiency in **React development**, **API integration**, **state management**, and **responsive web design**.
+
+---
+
+
+## **📂 Project Setup**
+1. Clone the
