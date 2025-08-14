@@ -25,14 +25,5 @@ Developed a **responsive movie discovery application** using **React.js** and **
 
 ---
 
-## **💡 Highlights**
-- Implemented **modern React patterns** (hooks, functional components).
-- Added **error handling**, **loading states**, and **clean separation of concerns**.
-- Dedicated **service layer** for API calls.
-- Demonstrates proficiency in **React development**, **API integration**, **state management**, and **responsive web design**.
-
----
 
 
-## **📂 Project Setup**
-1. Clone the
