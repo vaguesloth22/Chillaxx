@@ -1,4 +1,4 @@
-# 🎬 Movie Discovery Web Application
+# 🎬 Chillaxx: Movie Discovery Web Application
 
 *A responsive React.js SPA for exploring and managing your favorite movies.*
 
